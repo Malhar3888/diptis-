@@ -1,0 +1,7 @@
+{
+  "name": "Dipti's Pro Abacus Institute",
+  "description": "Dipti's Pro Abacus Institute in Mumbai offers Abacus and Mental Maths training designed to improve children's calculation speed, concentration, memory and confidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
